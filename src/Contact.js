@@ -12,8 +12,6 @@ function Contact() {
                     for millions of home cooks around the world."
                 btn="Contact us"
                 img={contactus}
-
-
             />
         </div>
     )
