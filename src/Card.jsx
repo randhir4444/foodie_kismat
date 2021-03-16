@@ -1,6 +1,6 @@
-import React,{useEffect,useState,} from 'react';
+import React from 'react';
 import { NavLink } from 'react-router-dom';
-import axios from 'axios';
+import "./index.css";
 
 function Card(props) {
     // const [name1, setname1] = useState([]);
@@ -16,7 +16,7 @@ function Card(props) {
     // },[]);
     return (
         <>
-            <div className="col-md-4 col-10 mx-auto">
+            <div className="col-md-2 col-10 mx-auto card_custom">
                 <div className="card">
                     <img class="card-img-top" src={props.imgsrc} alt="Card cap" />
                     <div class="card-body">

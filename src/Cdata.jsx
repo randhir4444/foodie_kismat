@@ -27,8 +27,32 @@ const Cdata=[{
     title:"Chicken",
 },
 {
+    imgsrc:P4,
+    title:"Egg Maggie",
+}, 
+{
+    imgsrc:P1,
+    title:"Egg Maggie",
+},
+{
+    imgsrc:P2,
+    title:"Egg Maggie",
+},
+{
+    imgsrc:P3,
+    title:"Egg",
+},
+{
+    imgsrc:P4,
+    title:"Egg Maggie",
+},
+{
     imgsrc:P5,
     title:"Chicken",
-}  
+},
+{
+    imgsrc:P4,
+    title:"Egg Maggie",
+}, 
 ];
 export default Cdata;

@@ -9,6 +9,7 @@ import Popper from 'popper.js';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import "./index.css";
+import Footer from "./Footer";
 
 function App() {
     return (
@@ -21,6 +22,7 @@ function App() {
             <Route path="/Services" exact component={Services}/>
             <Redirect to="/"/>
             </Switch>
+            <Footer/>
         </div>
     )
 }

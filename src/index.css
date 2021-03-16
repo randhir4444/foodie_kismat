@@ -76,3 +76,7 @@
         transform: translateY(-20px);
     }
 }
+
+.card_custom{
+    margin-bottom: 20px;
+}
