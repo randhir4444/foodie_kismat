@@ -54,5 +54,9 @@ const Cdata=[{
     imgsrc:P4,
     title:"Egg Maggie",
 }, 
+{
+    imgsrc:P3,
+    title:"Egg",
+},
 ];
 export default Cdata;
