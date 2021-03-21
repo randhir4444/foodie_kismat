@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import "./Footer.css";
 
 function Footer() {
     return (
         <>
-        <footer className="bg-light text-center w-100 mt-auto">
+        <footer className="bg-light text-center w-100 mt-auto footer">
             <p>©️ 2021 Randhir Singh. All rights reseved. Terms And Condition Applied. </p>
         </footer>
         </>
