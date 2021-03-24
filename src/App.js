@@ -5,7 +5,6 @@ import About from "./About";
 import Contact from "./Contact";
 import Services from "./Services";
 import NavBar from "./NavBar";
-import Popper from 'popper.js';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import "./index.css";
