@@ -29,8 +29,6 @@ const SelectState = () => {
             }).then((data) => {
                 setstateslelct([...data.baseStateResponseList])
                 console.log(data);
-                // setstatecode(state.stateCode); 
-
             });
         }
         getState()

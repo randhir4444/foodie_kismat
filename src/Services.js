@@ -9,7 +9,7 @@ function Services() {
     return (
         <div>
             <Common
-                start="Enjoy Food wid"
+                start="Enjoy Food With"
                 name="My Foodie Kismat"
                 des="Don't Hesesitate 😅"
                 btn="Explore"

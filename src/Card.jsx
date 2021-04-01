@@ -3,17 +3,6 @@ import { NavLink } from 'react-router-dom';
 import "./index.css";
 
 function Card(props) {
-    // const [name1, setname1] = useState([]);
-    // const [photo, setphoto] = useState("");
-    // useEffect(() => {
-    //     async function getData(){
-    //         const res=await axios.get(`https://randomuser.me/api/`);
-    //          setphoto(res.data.results[0].picture.large);
-    //          setname1(res.data.results[0].name.first);
-    //          console.log(res);
-    //     }
-    //     getData();
-    // },[]);
     return (
         <>
             <div className="col-md-2 col-10 mx-auto card_custom">
